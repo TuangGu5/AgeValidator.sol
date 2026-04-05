@@ -11,3 +11,4 @@ contract AgeValidator {
         age = _age;
     }
 }
+Implement basic smart contract features
