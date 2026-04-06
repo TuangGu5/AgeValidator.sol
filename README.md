@@ -12,3 +12,4 @@ contract AgeValidator {
     }
 }
 Implement basic smart contract features
+Fix minor issue
