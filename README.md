@@ -15,3 +15,4 @@ Implement basic smart contract features
 Fix minor issue
 Improve contract modularity
 Add basic error message
+Final code cleanup 
