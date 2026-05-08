@@ -17,3 +17,4 @@ Improve contract modularity
 Add basic error message
 Final code cleanup 
 Improve naming scheme
+Add helper function
